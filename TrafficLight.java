@@ -3,7 +3,7 @@ public enum TrafficLight {
     RED (" Stop"),
     YELLOW (" Wait"),
     GREEN (" Go");
-    private String action;
+    private final String action;
 
     //constructor always private
     private TrafficLight(String action){
