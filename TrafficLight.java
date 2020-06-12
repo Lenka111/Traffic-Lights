@@ -1,3 +1,4 @@
+//Elena Voini
 public enum TrafficLight {
     RED (" Stop"),
     YELLOW (" Wait"),
