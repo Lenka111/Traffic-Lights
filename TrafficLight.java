@@ -1,4 +1,4 @@
-//Elena Voini
+//Elena Voinu
 public enum TrafficLight {
     RED (" Stop"),
     YELLOW (" Wait"),
